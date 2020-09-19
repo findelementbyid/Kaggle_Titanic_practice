@@ -8,7 +8,7 @@ Instructor: Duen-Ren, Liu
 
 This project is the 1st homework of this course.
 
-The topic of this competition is that use a random forest classifier to predict someone will whether survive the tragedy of Titanic.
+The topic of this competition is that using random forest classifier to predict someone will whether survive the tragedy of Titanic.
 
 
 ## Kaggle Competition Link
